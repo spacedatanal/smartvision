@@ -1,1 +1,5 @@
 examples/
+.venv/
+.env
+detection/yolov8n.pt
+Neo4j-e5d791fc-Created-2025-06-01.txt
